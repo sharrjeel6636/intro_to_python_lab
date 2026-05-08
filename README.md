@@ -1,4 +1,4 @@
-# Intro to Python - Mid-Term Lab Project
+# Intro to Python -  Lab Project
 
 A comprehensive collection of Python programs and technical reports developed for the Lab Project. This repository demonstrates core programming implementations, ranging from basic logic to an automated student management system.
 
